@@ -1,7 +1,7 @@
 Skill Cloud [![Build Status][circleci-badge]][circleci-url]
 =============================
 
-This is visializing skill of namikingsoft like cloud.  
+This is visializing skill of namikingsoft like cloud.  s
 http://blog.namiking.net/skillcloud/
 
 
